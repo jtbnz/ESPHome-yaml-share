@@ -4,4 +4,5 @@ https://www.iconarchive.com/show/material-icons-by-pictogrammers/power-socket-au
 
 most icons are from https://www.freepik.com/
 
+If I have missed any explicit attibution I am happy to add.
 
