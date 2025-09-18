@@ -10,7 +10,7 @@ ESPHome is a system to control ESP8266/ESP32 devices with simple yet powerful co
 
 ### chair-display.yaml - Advanced LVGL Touch Display
 
-The `chair-display.yaml` configuration is designed for an ESP32-S3 based touch display system with LVGL (Light and Versatile Graphics Library) integration. This appears to be a custom chair-mounted display panel with advanced graphics capabilities.
+The `chair-display.yaml` configuration is designed for an ESP32-S3 based touch display system with LVGL (Light and Versatile Graphics Library) integration. This is used as a custom chair-mounted display panel with advanced graphics capabilities.
 
 #### Key Features:
 - **Hardware Platform**: ESP32-S3 DevKitC-1 with PSRAM support
@@ -34,6 +34,11 @@ The `chair-display.yaml` configuration is designed for an ESP32-S3 based touch d
 
 #### Security Note:
 The configuration references secrets for WiFi credentials, API encryption key, and OTA password, properly separating sensitive data from the main configuration.
+
+#### Screenshots:
+![Chair Display Screenshot 1](chair-display-1.png)
+![Chair Display Screenshot 2](chair-display-2.png)
+![Chair Display Screenshot 3](chair-display-3.png)
 
 ### lanbonl8.yaml - Lanbon L8 Smart Switch Display
 
